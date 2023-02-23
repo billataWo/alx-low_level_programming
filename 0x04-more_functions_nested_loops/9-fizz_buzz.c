@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * fizz_buzz: - output Buzz each numbers of 3 and 5.
+ * main - output Buzz each numbers of 3 and 5.
  * Return: it returns 0.
  */
 int main(void)
