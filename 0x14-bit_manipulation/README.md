@@ -1,5 +1,0 @@
-README
-
-
-# C - Bit manipulation
-
